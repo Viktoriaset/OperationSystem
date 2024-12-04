@@ -6,6 +6,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MainLaba2", "MainLaba2\Main
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laba3", "Laba3\Laba3.vcxproj", "{D726F6AF-23FC-4D6A-8EFB-2B01B37F6A9D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RysayaLaba3", "RysayaLaba3\RysayaLaba3.vcxproj", "{2F762214-6C72-4564-AA25-4E2F9CBE8975}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RasayaLaba4", "RasayaLaba4\RasayaLaba4.vcxproj", "{1CAD6D91-5CA0-4085-8DC1-9B0ED7D6ABEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{D726F6AF-23FC-4D6A-8EFB-2B01B37F6A9D}.Debug|Any CPU.Build.0 = Debug|Win32
 		{D726F6AF-23FC-4D6A-8EFB-2B01B37F6A9D}.Release|Any CPU.ActiveCfg = Release|Win32
 		{D726F6AF-23FC-4D6A-8EFB-2B01B37F6A9D}.Release|Any CPU.Build.0 = Release|Win32
+		{2F762214-6C72-4564-AA25-4E2F9CBE8975}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{2F762214-6C72-4564-AA25-4E2F9CBE8975}.Debug|Any CPU.Build.0 = Debug|Win32
+		{2F762214-6C72-4564-AA25-4E2F9CBE8975}.Release|Any CPU.ActiveCfg = Release|Win32
+		{2F762214-6C72-4564-AA25-4E2F9CBE8975}.Release|Any CPU.Build.0 = Release|Win32
+		{1CAD6D91-5CA0-4085-8DC1-9B0ED7D6ABEC}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{1CAD6D91-5CA0-4085-8DC1-9B0ED7D6ABEC}.Debug|Any CPU.Build.0 = Debug|Win32
+		{1CAD6D91-5CA0-4085-8DC1-9B0ED7D6ABEC}.Release|Any CPU.ActiveCfg = Release|Win32
+		{1CAD6D91-5CA0-4085-8DC1-9B0ED7D6ABEC}.Release|Any CPU.Build.0 = Release|Win32
 	EndGlobalSection
 EndGlobal

@@ -39,35 +39,33 @@ void WinProcessHandler::Delete()
 
 void WinProcessHandler::CreateCrossPlatformProcess(const std::string& executable, const std::string& arguments)
 {
-    std::string commandLine = executable + " " + arguments;
-
-    STARTUPINFOA si = { sizeof(si) };
+    STARTUPINFOA si;
     PROCESS_INFORMATION pi;
 
-    if (!CreateProcessA(
+    if (!CreateProcess(
             nullptr,
-            const_cast<LPSTR>(commandLine.data()),
+            nullptr,
             nullptr,
             nullptr,
             FALSE,
             0,
             nullptr,
             nullptr,
-            &si,
+            LPSTARTUPINFOW(&si),
             &pi))
     {
         std::cerr << "Failed to create process. Error: " << GetLastError() << '\n';
     }
     else
     {
-        std::string message = "PID: " + std::to_string(pi.dwProcessId) + " DateTime: " + timer->GetDateTime();
-        logger->Log(message);
+        StartCounterUpscale();
+        StartLogging();
+
+        WaitForSingleObject(pi.hProcess, INFINITE);
+        
         CloseHandle(pi.hProcess);
         CloseHandle(pi.hThread);
     }
-
-    StartCounterUpscale();
-    StartLogging();
 }
 
 WinProcessHandler::~WinProcessHandler()

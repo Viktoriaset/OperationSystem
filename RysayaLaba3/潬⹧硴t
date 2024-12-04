@@ -1,0 +1,96 @@
+Program started. PID: 10156, Time: 2024-12-04 07:24:49.766
+PID: 10156, Time: 2024-12-04 07:24:50.781, Counter: 3
+PID: 10156, Time: 2024-12-04 07:24:51.788, Counter: 6
+Copy 2 started. PID: 10156, Time: 2024-12-04 07:24:52.781
+Copy 1 exiting. PID: 10156, Time: 2024-12-04 07:24:52.781
+PID: 10156, Time: 2024-12-04 07:24:52.797, Counter: 38
+PID: 10156, Time: 2024-12-04 07:24:53.805, Counter: 41
+Copy 2 exiting. PID: 10156, Time: 2024-12-04 07:24:54.782
+PID: 10156, Time: 2024-12-04 07:24:54.813, Counter: 22
+Copy 1 started. PID: 10156, Time: 2024-12-04 07:24:55.790
+Copy 1 exiting. PID: 10156, Time: 2024-12-04 07:24:55.790
+Copy 2 started. PID: 10156, Time: 2024-12-04 07:24:55.790
+PID: 10156, Time: 2024-12-04 07:24:55.820, Counter: 70
+PID: 10156, Time: 2024-12-04 07:24:56.826, Counter: 73
+Copy 2 exiting. PID: 10156, Time: 2024-12-04 07:24:57.803
+PID: 10156, Time: 2024-12-04 07:24:57.834, Counter: 38
+Copy 1 started. PID: 10156, Time: 2024-12-04 07:24:58.796
+Copy 1 exiting. PID: 10156, Time: 2024-12-04 07:24:58.797
+PID: 10156, Time: 2024-12-04 07:24:58.843, Counter: 104
+PID: 10156, Time: 2024-12-04 07:24:59.852, Counter: 107
+Copy 2 exiting. PID: 10156, Time: 2024-12-04 07:25:00.799
+PID: 10156, Time: 2024-12-04 07:25:00.861, Counter: 55
+Copy 1 started. PID: 10156, Time: 2024-12-04 07:25:01.811
+Copy 2 started. PID: 10156, Time: 2024-12-04 07:25:01.811
+Copy 1 exiting. PID: 10156, Time: 2024-12-04 07:25:01.811
+PID: 10156, Time: 2024-12-04 07:25:01.872, Counter: 137
+PID: 10156, Time: 2024-12-04 07:25:02.879, Counter: 140
+Copy 2 exiting. PID: 10156, Time: 2024-12-04 07:25:03.813
+PID: 10156, Time: 2024-12-04 07:25:03.891, Counter: 71
+Copy 1 started. PID: 10156, Time: 2024-12-04 07:25:04.826
+Copy 1 exiting. PID: 10156, Time: 2024-12-04 07:25:04.827
+PID: 10156, Time: 2024-12-04 07:25:04.904, Counter: 168
+PID: 10156, Time: 2024-12-04 07:25:05.915, Counter: 172
+Copy 2 exiting. PID: 10156, Time: 2024-12-04 07:25:06.832
+PID: 10156, Time: 2024-12-04 07:25:06.925, Counter: 88
+Program started. PID: 21328, Time: 2024-12-04 07:26:31.139
+PID: 21328, Time: 2024-12-04 07:27:15.506, Counter: 3
+PID: 21328, Time: 2024-12-04 07:27:16.512, Counter: 6
+PID: 21328, Time: 2024-12-04 07:27:28.484, Counter: 10
+Copy 2 started. PID: 21328, Time: 2024-12-04 07:27:39.933
+Copy 1 started. PID: 21328, Time: 2024-12-04 07:27:39.933
+Copy 1 exiting. PID: 21328, Time: 2024-12-04 07:27:39.933
+PID: 21328, Time: 2024-12-04 07:27:40.939, Counter: 43
+Copy 2 exiting. PID: 21328, Time: 2024-12-04 07:27:41.949
+PID: 21328, Time: 2024-12-04 07:27:41.949, Counter: 23
+PID: 21328, Time: 2024-12-04 07:27:47.438, Counter: 26
+Copy 1 started. PID: 21328, Time: 2024-12-04 07:27:47.439
+Copy 2 started. PID: 21328, Time: 2024-12-04 07:27:47.439
+Copy 1 exiting. PID: 21328, Time: 2024-12-04 07:27:47.439
+PID: 21328, Time: 2024-12-04 07:27:48.452, Counter: 77
+Copy 2 exiting. PID: 21328, Time: 2024-12-04 07:27:49.443
+PID: 21328, Time: 2024-12-04 07:27:49.459, Counter: 40
+Copy 1 started. PID: 21328, Time: 2024-12-04 07:27:50.453
+Copy 2 started. PID: 21328, Time: 2024-12-04 07:27:50.453
+Copy 1 exiting. PID: 21328, Time: 2024-12-04 07:27:50.453
+PID: 21328, Time: 2024-12-04 07:27:50.467, Counter: 106
+PID: 21328, Time: 2024-12-04 07:27:51.477, Counter: 110
+Copy 2 exiting. PID: 21328, Time: 2024-12-04 07:27:52.457
+PID: 21328, Time: 2024-12-04 07:27:52.489, Counter: 56
+Copy 2 started. PID: 21328, Time: 2024-12-04 07:27:53.456
+Copy 1 started. PID: 21328, Time: 2024-12-04 07:27:53.456
+Copy 1 exiting. PID: 21328, Time: 2024-12-04 07:27:53.456
+PID: 21328, Time: 2024-12-04 07:27:53.502, Counter: 128
+PID: 21328, Time: 2024-12-04 07:27:54.516, Counter: 131
+Copy 2 exiting. PID: 21328, Time: 2024-12-04 07:27:55.463
+PID: 21328, Time: 2024-12-04 07:27:55.525, Counter: 67
+Copy 2 started. PID: 21328, Time: 2024-12-04 07:27:56.470
+Copy 1 started. PID: 21328, Time: 2024-12-04 07:27:56.470
+Copy 1 exiting. PID: 21328, Time: 2024-12-04 07:27:56.471
+PID: 21328, Time: 2024-12-04 07:27:56.532, Counter: 152
+PID: 21328, Time: 2024-12-04 07:27:57.541, Counter: 155
+Copy 2 exiting. PID: 21328, Time: 2024-12-04 07:27:58.475
+PID: 21328, Time: 2024-12-04 07:27:58.552, Counter: 79
+Copy 1 started. PID: 21328, Time: 2024-12-04 07:27:59.473
+Copy 2 started. PID: 21328, Time: 2024-12-04 07:27:59.473
+Copy 1 exiting. PID: 21328, Time: 2024-12-04 07:27:59.473
+PID: 21328, Time: 2024-12-04 07:27:59.565, Counter: 184
+PID: 21328, Time: 2024-12-04 07:28:00.573, Counter: 188
+Copy 2 exiting. PID: 21328, Time: 2024-12-04 07:28:01.489
+PID: 21328, Time: 2024-12-04 07:28:01.583, Counter: 95
+Copy 1 started. PID: 21328, Time: 2024-12-04 07:28:02.484
+Copy 2 started. PID: 21328, Time: 2024-12-04 07:28:02.484
+PID: 21328, Time: 2024-12-04 07:28:02.590, Counter: 216
+PID: 21328, Time: 2024-12-04 07:28:03.603, Counter: 219
+Copy 2 exiting. PID: 21328, Time: 2024-12-04 07:28:04.490
+PID: 21328, Time: 2024-12-04 07:28:04.614, Counter: 112
+Copy 1 started. PID: 21328, Time: 2024-12-04 07:28:05.502
+Copy 1 exiting. PID: 21328, Time: 2024-12-04 07:28:05.502
+PID: 21328, Time: 2024-12-04 07:28:05.625, Counter: 250
+PID: 21328, Time: 2024-12-04 07:28:06.637, Counter: 253
+Program started. PID: 18464, Time: 2024-12-04 07:38:11.273
+PID: 18464, Time: 2024-12-04 07:38:12.283, Counter: 3
+PID: 18464, Time: 2024-12-04 07:38:13.292, Counter: 6
+Copy 1 started. PID: 18464, Time: 2024-12-04 07:38:14.276
+Copy 2 started. PID: 18464, Time: 2024-12-04 07:38:14.276
+PID: 18464, Time: 2024-12-04 07:38:14.306, Counter: 38

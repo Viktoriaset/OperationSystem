@@ -1,0 +1,10 @@
+E:\Personal\OperationSystenm\Laba2\Laba2\Laba3\Counter\Factory\CounterFactory.cpp;E:\Personal\OperationSystenm\Laba2\Laba2\Laba3\Debug\CounterFactory.obj
+E:\Personal\OperationSystenm\Laba2\Laba2\Laba3\Counter\WinCounter\WinCounter.cpp;E:\Personal\OperationSystenm\Laba2\Laba2\Laba3\Debug\WinCounter.obj
+E:\Personal\OperationSystenm\Laba2\Laba2\Laba3\Laba3.cpp;E:\Personal\OperationSystenm\Laba2\Laba2\Laba3\Debug\Laba3.obj
+E:\Personal\OperationSystenm\Laba2\Laba2\Laba3\Logger\LoggerFactory\LoggerFactory.cpp;E:\Personal\OperationSystenm\Laba2\Laba2\Laba3\Debug\LoggerFactory.obj
+E:\Personal\OperationSystenm\Laba2\Laba2\Laba3\Logger\Posix\PosixLogger.cpp;E:\Personal\OperationSystenm\Laba2\Laba2\Laba3\Debug\PosixLogger.obj
+E:\Personal\OperationSystenm\Laba2\Laba2\Laba3\Logger\Win\WinLogger.cpp;E:\Personal\OperationSystenm\Laba2\Laba2\Laba3\Debug\WinLogger.obj
+E:\Personal\OperationSystenm\Laba2\Laba2\Laba3\ProcessHandler\ProcessHandlerFactory\ProcessHandlerFactory.cpp;E:\Personal\OperationSystenm\Laba2\Laba2\Laba3\Debug\ProcessHandlerFactory.obj
+E:\Personal\OperationSystenm\Laba2\Laba2\Laba3\ProcessHandler\Win\WinProcessHandler.cpp;E:\Personal\OperationSystenm\Laba2\Laba2\Laba3\Debug\WinProcessHandler.obj
+E:\Personal\OperationSystenm\Laba2\Laba2\Laba3\Timer\Factory\TimerFactory.cpp;E:\Personal\OperationSystenm\Laba2\Laba2\Laba3\Debug\TimerFactory.obj
+E:\Personal\OperationSystenm\Laba2\Laba2\Laba3\Timer\WinTimer\WinTimer.cpp;E:\Personal\OperationSystenm\Laba2\Laba2\Laba3\Debug\WinTimer.obj
